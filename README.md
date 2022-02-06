@@ -21,3 +21,6 @@ For this report, we used a dataset from the CryptoCompare site, which was not id
 
 - There were a total of 532 tradable cryptocurrencies 
 <img src="Resources/tradable.PNG" width="650" />
+
+- The 2-D scatter plot showcases the four Classes using the TotalCoinsMined and TotalCoinSupply features
+<img src="Resources/plot.PNG" width="650" />

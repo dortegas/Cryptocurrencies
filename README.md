@@ -13,8 +13,11 @@ For this report, we used a dataset from the CryptoCompare site, which was not id
 ## Results
 
 **Clustering Cryptocurrencies Using K-means**
-1. The following elbow curve graph showcases the K-Means method iterating on k values from 1 to 10
+  - The following elbow curve graph showcases the K-Means method iterating on k values from 1 to 10
 <img src="Resources/elbow.PNG" width="650" />
 
-2. The 3D scatter plot showcases the four clusters we got from the cryptocurrencies database 
+  - The 3D scatter plot showcases the four clusters we got from the cryptocurrencies database 
 <img src="Resources/graphic.PNG" width="650" />
+
+- There were a total of 532 tradable cryptocurrencies 
+<img src="Resources/tradable.PNG" width="650" />
